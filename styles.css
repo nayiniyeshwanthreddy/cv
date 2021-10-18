@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #191A19;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Roboto Slab', serif;
+}
+
+a{
+  color:#EAE7C6;
+}
+
+a:hover{
+  color:#9CC094;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  padding: 15px;
+  border-spacing: 30px;
+}
+
+td {
+  padding: 15px;
+}
+
+.top-container {
+  color: #9A9483;
+  background-color: #191A19;
+  position: relative;
+  padding: 50px 0 10px 0;
+  font-family: papyrus;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.middle-container {
+  font-family: sans-serif;
+  padding-top: 30px;
+  color: #9A9483;
+}
+
+.programming-images {
+  height: 200px;
+  width: 200px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 100%;
+}
+
+.education-qualifications {
+  padding-top: 50px;
+}
+
+.skills {
+  background-color: #191A19;
+  padding-top: 50px;
+}
+
+.bottom-container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.bottom-container-top {
+  padding-bottom: 5px;
+  color: #9A9483;
+}
+
+.bottom-container-bottom {
+  color: #9A9483;
+}
